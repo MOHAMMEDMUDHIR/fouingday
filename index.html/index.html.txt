@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descroption" content="Best free onlone courses ...">
+    <meta name="keywords" content="Tahiri, Lancen, Tahiri, lahcen, Barmaja online, java, php, ionic, angular, nodejs,react">
+    <link rel="icon" href="jkj.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>محمد مدهر</title>
+
+    <style> 
+       *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html{
+            font-family: "josefin sans", sans-serif;
+            font-size: 16px;
+            color: #ffffff;
+        }
+
+        .home{
+            width: 100%;
+            height: 100vh;
+            background-color: #171a1c;
+            display: flex;
+            flex-direction: column;
+        }
+
+        h2{
+            font-size: 2.2rem;
+            letter-spacing: 0.12rem;
+            cursor: pointer;
+        }
+
+        nav{
+            padding-top: 2.8rem;
+            padding-left: 46%;
+            padding-right: 8%;
+        }
+
+        .content {
+            flex-grow: 1;
+            padding: 0 #ffffff;
+            align-items: center;
+            padding-left: 30%;
+            justify-content: space-between;
+        }
+
+        h3{
+            padding-left: -25%;
+            padding-right: 10%;
+            font-size: 1.3rem;
+            margin: 3.5rem 0;
+        }
+
+        img {
+
+            width:98%;
+            padding-top: 2%;
+            padding-left: 38%;
+            padding-right: 6%;
+            bottom: 0;
+            align-self: flex-end;
+        }
+
+    </style>
+
+</head>
+<body>
+    <section class="home">
+        <nav>
+            <h2>يوم التاسيس</h2>
+        </nav>
+        <div class="content">
+            <div class="container-texts">
+                <h3><p>نصَّ الأمرُ الملكي الذي أصدره خادم الحرمين الشريفين الملك سلمان بن عبد العزيز آل سعود على تحديد يوم 22 فبراير من كل عام يوماً لذكرى</p>
+                <p>تأسيس الدولة السعودية الأولى، الذي يمثل بدء عهد الإمام محمد بن سعود في منتصف عام 1139هـ الموافق لشهر فبراير من عام 1727م. وأن</p>
+                <p>الاحتفاء به يأتي «اعتزازاً بالجذور الراسخة لهذه الدولة المباركة، وارتباط مواطنيها الوثيق بقادتها منذ عهد الإمام محمد بن سعود قبل ثلاثة</p>
+                <p>قرون، وبداية تأسيسه في منتصف عام 1139هـ (1727م) للدولة السعودية الأولى التي استمرت إلى عام 1233هـ (1818م)،</p>
+                <p>وعاصمتها الدرعية ودستورها القرآن الكريم وسنة رسوله صلى الله عليه وسلم، وما أرسته من الوحدة والأمن في الجزيرة العربية، بعد</p>
+                <p>قرون من التشتت والفرقة وعدم الاستقرار، وصمودها أمام محاولات القضاء عليها، إذ لم يمضِ سوى سبع سنوات على انتهائها حتى</p>
+                <p>تمكن الإمام تركي بن عبدالله بن محمد بن سعود عام 1240هـ (1824م) من استعادتها وتأسيس الدولة السعودية الثانية التي استمرت</p>
+                <p>إلى عام 1309هـ (1891م)؛ وبعد انتهائها بعشر سنوات، قيض الله الملك عبدالعزيز بن عبدالرحمن الفيصل آل سعود عام 1319ه</p>
+                <p>(1902م) ليؤسس الدولة السعودية الثالثة ويوحدها باسم المملكة العربية السعودية، وسار أبناؤه الملوك من بعده على نهجه في تعزيز</p>
+                <p>بناء هذه الدولة ووحدتها»</p></h3>
+            </div>
+            <div class="container-imges">
+                <img src="hyh.png">
+            </div>
+        </div>
+    </section>
+</body>
+</html>
